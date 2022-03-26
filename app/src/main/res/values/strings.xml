@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="product_list">Product List</string>
+    <string name="cart">My Cart</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="txt_total">Total :</string>
+
+</resources>
